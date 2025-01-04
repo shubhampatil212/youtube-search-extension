@@ -1,6 +1,6 @@
 # YouTube Search Extension 🎥
 
-A simple and lightweight Chrome extension that lets you search selected text on YouTube directly from the context menu. No need to open a new tab manually—just select the text, right-click, and search!
+A simple and lightweight Chrome (or any browser) extension that lets you search selected text on YouTube directly from the context menu. No need to open a new tab manually—just select the text, right-click, and search!
 
 ---
 
@@ -17,14 +17,14 @@ A simple and lightweight Chrome extension that lets you search selected text on 
 1. **Download or Clone the Repository:**
    - Download the ZIP file from this repository or use the following command:
      ```bash
-     git clone https://github.com/<your-username>/youtube-search-extension.git
+     git clone https://github.com/shubhampatil212/youtube-search-extension.git
      ```
 
 2. **Extract Files:**
    - If you downloaded the ZIP file, extract it to a folder.
 
-3. **Load the Extension in Chrome:**
-   - Open Chrome and go to `chrome://extensions/`.
+3. **Load the Extension in Chrome/Browser:**
+   - Open Chrome/Browser and go to `chrome://extensions/`.
    - Enable **Developer Mode** (top-right corner).
    - Click **Load Unpacked** and select the folder where you extracted/cloned this repository.
 
