@@ -2,7 +2,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.contextMenus.create({
       id: "searchYouTube",
-      title: "Search YouTube for '%s'",
+      title: 'Search YouTube for "%s" ',
       contexts: ["selection"] // Show only when text is selected
     });
   });
